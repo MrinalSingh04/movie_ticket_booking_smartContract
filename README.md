@@ -17,10 +17,15 @@ Traditional movie booking systems often involve intermediaries, centralized data
 ## ✨ Features
 
 ✔ **Book Tickets**: Users can book seats for a movie by paying the required ticket price.
+
 ✔ **Cancel Tickets**: Users can cancel their tickets and receive a refund.
+
 ✔ **Dynamic Pricing**: The owner can set different prices for different movies.
+
 ✔ **Multiple Shows Management**: Admins can add and remove movies from the contract.
+
 ✔ **Secure Payments**: The contract ensures only correct payments are accepted.
+
 ✔ **Owner Controls**: The owner can withdraw ticket sales revenue at any time.
 
 ## ⚙ Smart Contract Functions
